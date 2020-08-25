@@ -1,1 +1,3 @@
-# flex-practice
+# Flourish Collective
+
+flexbox practice
